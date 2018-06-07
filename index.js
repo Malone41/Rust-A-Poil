@@ -154,4 +154,4 @@ var autoRole = 'membres';
   member.addRole(member.guild.roles.find("name", `${autoRole}`));
 
 });
-client.login(token)
+client.login(process.env.TOKEN);
