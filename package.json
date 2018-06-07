@@ -1,0 +1,17 @@
+{
+  "name": "Rust Bot",
+  "version": "1.0.0",
+  "description": "Bot développé par Dev-TimeEU",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "KilioZ de Dev-TimeEU",
+  "license": "MIT",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^11.3.0",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {}
+}
